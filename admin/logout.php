@@ -16,7 +16,7 @@ header('WWW-Authenticate: Basic realm="Admin Panel"');
             justify-content: center;
             align-items: center;
             min-height: 100vh;
-            background: linear-gradient(145deg, #0f172a 0%, #1e293b 100%);
+            background: linear-gradient(135deg, #e0eaf4 0%, #ffdad8 100%);
             margin: 0;
         }
         .logout-card {
