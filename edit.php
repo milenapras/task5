@@ -85,7 +85,7 @@ function safeOutput($value) {
     <link rel="stylesheet" href="style.css">
     <style>
         .edit-header {
-            background: linear-gradient(135deg, #1e3a5f, #0f2b44);
+            background: rgba(100, 2, 2, 1);
             color: white;
             padding: 1rem 2rem;
             display: flex;
