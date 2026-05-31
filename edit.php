@@ -206,7 +206,7 @@ function safeOutput($value) {
                 
                 <!-- Пол -->
                 <div class="field-group <?php echo getErrorClass('gender', $errors); ?>">
-                    <label>⚥ Пол</label>
+                    <label>Пол</label>
                     <div class="input-wrapper radio-group">
                         <label><input type="radio" name="gender" value="male" <?php echo $userData['gender'] == 'male' ? 'checked' : ''; ?>> Мужской</label>
                         <label><input type="radio" name="gender" value="female" <?php echo $userData['gender'] == 'female' ? 'checked' : ''; ?>> Женский</label>
