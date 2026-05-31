@@ -94,7 +94,7 @@
                 
                 <!-- Пол -->
                 <div class="field-group <?php echo getErrorClass('gender'); ?>">
-                    <label>⚥ Пол</label>
+                    <label>Пол</label>
                     <div class="input-wrapper radio-group">
                         <label><input type="radio" name="gender" value="male" 
                             <?php echo isRadioChecked('male', $formData); ?>> Мужской</label>
