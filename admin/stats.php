@@ -71,7 +71,7 @@ foreach ($languageStats as $lang) {
             box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
         }
         .stats-header {
-            background: linear-gradient(135deg, #1e293b, #0f172a);
+            background: rgba(100, 2, 2, 1);
             color: white;
             padding: 1.5rem 2rem;
             display: flex;
